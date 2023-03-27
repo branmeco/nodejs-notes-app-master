@@ -13,7 +13,7 @@ Allows a user to do login and save his personal notes
 ## Installation
 
 <code>
-git clone https://github.com/FaztTech/nodejs-notes-app
+git clone (https://github.com/branmeco/nodejs-notes-app-master)
 cd nodejs-notes-app
 npm i
 npm run dev # run in development mode
